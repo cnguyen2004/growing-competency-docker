@@ -1,0 +1,1 @@
+This project was developed as part of the Growing a Competency assignment for Capstone I to learn Docker and containerization. The goal was to gain a hands-on experience packaging and running an application in an isolated environment.
